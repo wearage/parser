@@ -72,8 +72,7 @@ python parserusersgroup.py
 
 Результаты работы парсеров сохраняются в CSV-файлы с полями:
 
-```
 username, first_name, bio
-```
+
 
 ---
